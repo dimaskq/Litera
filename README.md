@@ -18,7 +18,7 @@ Features:
   
 Technologies Used:
 
-  React
+  React + Vite
   React Router
   Redux
   CSS
