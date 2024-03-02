@@ -27,7 +27,7 @@ Technologies Used:
   
 Installation:
 
-Clone the repository: git clone https://github.com/bard-ai/book-social-media-app.git
+Clone the repository: git clone https://github.com/dimaskq/Litera
 Install the dependencies: npm install
 Start the app: npm run dev
 
